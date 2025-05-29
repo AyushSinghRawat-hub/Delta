@@ -17,6 +17,7 @@ inference_data[:, 1] += np.random.normal(0, 0.3, size=inference_data.shape[0])  
 inference_data[:, 2] += np.random.normal(0, 0.4, size=inference_data.shape[0])  # Petal length
 inference_data[:, 3] += np.random.normal(0, 0.2, size=inference_data.shape[0])  # Petal width
 
+
 inference_data = pd.DataFrame(data=inference_data, columns=iris.feature_names)
 
 # Save datasets to CSV for reference
