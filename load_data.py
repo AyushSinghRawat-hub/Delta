@@ -33,4 +33,4 @@ try:
 except subprocess.CalledProcessError as e:
     print(f"Error running test_and_visualize.py: {e}")
 except FileNotFoundError:
-    print("Error: test_and_visualize.py not found. Ensure it is in the same directory.")
+    print("Error: test_and_visualize.py not found. Ensure it is in the same directory.") 
