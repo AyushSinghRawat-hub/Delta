@@ -1,0 +1,18 @@
+{
+    "version": "v1",
+    "data_hash": "6fda3c4b0c0cff9bd5f7a46434509179069ed620c8fc7090d872a08d2c1a729a",
+    "data_path": "abalone.csv",
+    "noise_std": [
+        0.012,
+        0.01,
+        0.004,
+        0.049,
+        0.022,
+        0.013,
+        0.014
+    ],
+    "model_type": "RandomForest",
+    "train_accuracy": 1.0,
+    "val_accuracy": 0.65311004784689,
+    "inference_accuracy": 0.7366531003112281
+}

@@ -1,0 +1,5 @@
+Feature,D-statistic,p-value,Skewness
+sepal length (cm),0.08666666666666667,0.6279165272026672,Not Significant
+sepal width (cm),0.12666666666666668,0.18039483841127182,Not Significant
+petal length (cm),0.08666666666666667,0.6279165272026672,Not Significant
+petal width (cm),0.13333333333333333,0.13906219315479607,Not Significant
